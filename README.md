@@ -1,4 +1,4 @@
-# Advanced-Decision-Tree-Algorithms-for-Breast-Cancer-Diagnosis #CodeDaniel
+# Advanced Decision Tree Algorithms for Breast Cancer Diagnosis #CodeDaniel
 Ensemble Learning Techniques for Breast Cancer Classification: A Comparative Study of Bagging, Random Forest, and Boosting using CSV Dataset
 
 Breast cancer is a significant public health concern, and early detection is critical to improving patient outcomes. Decision tree algorithms are frequently used for medical diagnosis tasks, including breast cancer diagnosis. This project aims to evaluate the effectiveness of advanced decision tree algorithms, specifically Bagging, Random Forest, and Boosting, for breast cancer diagnosis.
